@@ -70,3 +70,4 @@ Output files are written to the working directory.
 - transform-an-xlsx-workbook-into-csv-tsv-and-txt-files-generating-each-output-for.cs
 - transform-an-xlsx-workbook-into-a-csv-file-removing-any-leading-empty-rows-and-c.cs
 - convert-an-xlsx-workbook-to-csv-format-preserving-delimiter-placeholders-for-emp.cs
+- transform-an-xlsx-workbook-into-an-mhtml-file-while-preserving-all-data-and-form.cs
