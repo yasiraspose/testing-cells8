@@ -61,3 +61,4 @@ Output files are written to the working directory.
 - transform-an-xlsx-workbook-into-an-xps-document-preserving-data-fidelity-and-lay.cs
 - transform-an-xlsx-workbook-into-ods-sxc-and-fods-formats-while-preserving-data-i.cs
 - transform-an-xlsx-workbook-into-an-html-document-preserving-cell-formatting-and-.cs
+- transform-an-xlsx-workbook-into-a-json-file-preserving-worksheet-data-cell-types.cs
