@@ -51,6 +51,11 @@
     },
     {
       "category": "conversion",
+      "file": "transform-an-xlsx-workbook-into-an-mhtml-file-while-preserving-all-data-and-form.cs",
+      "title": "Transform an XLSX workbook into an MHTML file while preserving all data and formatting."
+    },
+    {
+      "category": "conversion",
       "file": "transform-an-xlsx-workbook-into-an-ods-file-ensuring-data-fidelity-and-format-co.cs",
       "title": "Transform an XLSX workbook into an ODS file, ensuring data fidelity and format compliance throughout the conversion."
     },
